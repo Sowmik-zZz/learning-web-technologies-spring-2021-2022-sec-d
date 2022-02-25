@@ -1,0 +1,18 @@
+<Records>
+	
+	<Person sl="23">
+		<Name>Jhon Carter</Name>
+		<AdmissionDate>25/12/2015</AdmissionDate>
+	</Person>
+
+	<Person sl="29">
+		<Name>Bob Marshal</Name>
+		<AdmissionDate>13/01/1999</AdmissionDate>
+	</Person>
+
+	<Person sl="35">
+		<Name>Clark kent</Name>
+		<AdmissionDate>17/06/2005</AdmissionDate>
+	</Person>
+
+</Records>
